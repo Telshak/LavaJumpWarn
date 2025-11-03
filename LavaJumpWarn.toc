@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Lava Jump Warn
+## Notes: Shows a warning and countdown when you take lava damage.
+## Author: Telshak
+# Version: 1.0
+LavaJumpWarn.lua
